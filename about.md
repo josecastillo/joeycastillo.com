@@ -1,33 +1,29 @@
 ---
 layout: page
 permalink: /about/
-title: About the Jekyll Theme
-tags: [Jekyll, theme, simple, minimal, minimalism, responsive]
-modified: 2013-09-13
-image:
-  feature: so-simple-sample-image-4.jpg
-  credit: Michael Rose
-  creditlink: http://mademistakes.com
+title: About Joey Castillo
 ---
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the followup to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes).
+<p style="text-align:center"><img src="/images/joey.jpg"></p>
 
-## So Simple Theme is all about:
+##Apps
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations. 
-* Readable typography to make your words shine.
-* Support for large images to call out your favorite posts.
-* Disqus comments if you choose to enable.
-* Simple and clear permalink structure[^1].
-* Tags for [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) for a better social sharing experience.
-* Vanilla [custom 404 page]({{ site.url }}/404.html) to get you started.
-* Stylesheets for Pygments and Coderay [syntax highlighting](http://mmistakes.github.io/articles/so-simple-theme/code-highlighting-post/) to make your code examples look snazzy.
-* Simple search that overlays results based on post title.
-* [Grunt build script]({{ site.url }}/theme-setup/index.html#theme-development) for easier theme development.
-* [Sitemap](https://github.com/mmistakes/so-simple-theme/blob/master/sitemap.xml) for search engines
+Joey Castillo began [developing apps](/apps) for the iPhone in 2009. Currently: Senior Software Engineer at Accenture; formerly, Mobile Application Developer at American Express Publishing. 
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+Independent projects include [Dictapad](/apps/dictapad), the best-in-class transcription aid for the iPad, as well as [Bushwick Open Studios](/apps/openstudios), an annual event program for the three-day arts festival in Brooklyn, New York. 
 
-[^1]: Example: *domain.com/category-name/post-title*
+##In the Community
+
+In 2012 Joey participated in co-founding the [reddit community /r/ainbow](http://reddit.com/r/ainbow) as an open discussion space for LGBT issues among gender and sexual minorities. Under the guidance of the founding team, /r/ainbow grew to a subscribed base of over 20,000 members in a year's time — 90% of whom, according to a survey, identified as a gender or sexual minority. 
+
+In 2011, he assisted Donna DeCesare with her [Audience Engagement Grant in El Salvador](http://www.opensocietyfoundations.org/about/programs/documentary-photography-project/grantees/donna-de-cesare), teaching photography and photo editing skills and providing technical guidance for the [MemoriArte](http://www.memoriarte.org) project that exhibited the students' stories. 
+
+##Older Work
+
+In the summer of 2009 Joey participated in the [News21](http://www.news21.com/) initiative [at the University of Maryland](http://umd.news21.com/), where he developed a [custom Flash interface for presenting video stories](http://thenewvoters.news21.com/allensworth/story). He was also the sole ActionScript developer behind photojournalist Donna DeCesare's powerful website, [Destiny's Children: A Legacy of Gangs and War](http://www.destinyschildren.org/). 
+
+##Contact
+
+Joey Castillo is based out of Brooklyn, NY, where he is engaged in mobile and web development, and hacking away furiously at side projects in spare time. 
+
+Email Joey at [jose.castillo@gmail.com](mailto:jose.castillo@gmail.com).

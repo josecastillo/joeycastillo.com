@@ -1,24 +1,23 @@
-title:            Site Title
-description:      Describe your website here.
-logo:             site-logo.png
+title:            Joey Castillo
+description:      Work-in-progress redoing of joeycastillo.com
 disqus_shortname:
-search:           true
+#search:           true
 # Change url to your domain. Leave localhost server or blank when working locally.
 # You don't need to specify the protocol if you want it available on http and https. Example: //localhost:4000
 url:              http://localhost:4000
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Joey Castillo
   avatar:         bio-photo.jpg
-  email:          you@email.com
+  email:
   # Social networking links used in footer. Update and remove as you like.
-  twitter:
+  twitter:        joeysfieldnotes
   facebook:
-  github:
+  github:         josecastillo
   stackexchange:
-  linkedin:
-  instagram:
+  linkedin:       joeycastillo
+  instagram:      josecastillo
   flickr:
   tumblr:
   # For Google Authorship https://plus.google.com/authorship
@@ -33,15 +32,12 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
+  - title: Home
+    url: /
   - title: About
     url: /about/
-  - title: Articles
-    url: /articles/
-  - title: Theme Setup
-    url: /theme-setup/
-  - title: Made Mistakes
-    url: http://mademistakes.com
-    external: true
+  - title: Apps
+    url: /apps/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
@@ -51,7 +47,7 @@ pygments:    true
 markdown:    kramdown
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title/
+permalink:   /:categories/:year/:month/:day/:title/
 
 kramdown:
   auto_ids: true
