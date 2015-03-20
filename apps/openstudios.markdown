@@ -7,12 +7,13 @@ description: A versatile and flexible app for displaying the schedule of arts ev
 
 #Bushwick Open Studios
 
-The Bushwick Open Studios app comprises both a Django backend for storing information about the three-day arts festival, and a native iPhone client for viewing the schedules and events. The 2012 app was a modest success, downloaded 3,000 times over the course of the festival.
+The Bushwick Open Studios app is an annual event program for the three-day summer arts festival held in Brooklyn. It is comprised of both a Flask backend for serving schedule data, and a native iPhone client for viewing the schedules and events. The app averages 3,000 downloads each year. 
 
-For 2013, the app is being rewritten from the ground up. The Django backend is being replaced with a lightweight web API based on [Flask](http://flask.pocoo.org) and [SQLAlchemy](http://www.sqlalchemy.org), and the iPhone app is being redesigned to match with the new print style. 
+<figure class="third">
+	<a href="/images/apps-openstudios-screenshot-1.png"><img src="/images/apps-openstudios-screenshot-1.png"></a>
+	<a href="/images/apps-openstudios-screenshot-2.png"><img src="/images/apps-openstudios-screenshot-2.png"></a>
+	<a href="/images/apps-openstudios-screenshot-3.png"><img src="/images/apps-openstudios-screenshot-3.png"></a>
+	<figcaption>Screenshots from the Bushwick Open Studios 2014 app.</figcaption>
+</figure>
 
-Both the backend and the client portions of the app are being built with reusability in mind, which is to say, the code is decoupled from the needs of BOS, and built to support any multi-day festival. 
-
-In addition to the app, I'm working on an eBook style writeup on how to make an app from scratch, using the BOS app as a case study. In the book, the arts festival is simply called "ArtsFest", and the narrative takes us from initial requirements-gathering through to building an API; wireframing and designing screens; building a Core Data model; and then finally designing, implementing and shipping an app. 
-
-A more in-depth writeup will find its way here closer to date of the festival (June 2013). 
+[The Bushwick Open Studios app](https://github.com/josecastillo/BOS2013) is open source software; feel free to fork it for your own art festival, music showcase, conference or really anything involving people in places at times. 
