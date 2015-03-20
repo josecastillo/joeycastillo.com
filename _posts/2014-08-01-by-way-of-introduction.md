@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A conclusion, by way of introduction
-description: "The first post on a new blog is an occasion."
+description: For the past year and change I've been up in the air. Today I came back down. 
 category: notes
 tags: [personal note]
 # image:

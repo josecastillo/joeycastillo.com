@@ -6,9 +6,9 @@ title: Apps, Past & Present
 
 #Current Apps
 
-* [Blanket](/apps/blanket), August 2013.
-* [Bushwick Open Studios](/apps/openstudios), June 2012.
-* [Dictapad](/apps/dictapad), August 2011.
+* [Bushwick Open Studios](/apps/openstudios), updated annually in June since 2012.
+* [Dictapad](/apps/dictapad), released 2011, updated October 2013.
+* [Blanket](/apps/blanket); open source, published August 2013.
 
 #Back Catalogue
 
