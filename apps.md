@@ -6,9 +6,9 @@ title: Apps, Past & Present
 
 #Current Apps
 
+* [SIGILANCE](/apps/sigilance); cryptographic smart card and supporting software.
 * [Bushwick Open Studios](/apps/openstudios), updated annually in June since 2012.
-* [Dictapad](/apps/dictapad), released 2011, updated October 2013.
-* [Blanket](/apps/blanket); open source, published August 2013.
+* [Dictapad](/apps/dictapad), released 2011; updated October 2014.
 
 #Back Catalogue
 
