@@ -15,7 +15,9 @@ description: A versatile and flexible app for displaying the schedule of arts ev
 	<figcaption>The Bushwick Open Studios app icon from 2012-2015.</figcaption>
 </figure>
 
-The Bushwick Open Studios app is an annual event program for the three-day summer arts festival held in Brooklyn. It is comprised of both a Flask backend for serving schedule data, and a native iPhone client for viewing the schedules and events. The app averages 3,000 downloads each year. 
+The Bushwick Open Studios app was an annual event program for the three-day summer arts festival held in Brooklyn. It is comprised of both a Flask backend for serving schedule data, and a native iPhone client for viewing the schedules and events. The festival garners over 10,000 visitors every summer year, and the app averaged 3,000 downloads each year. 
+
+I volunteered as the lead mobile developer for Arts in Bushwick, the all-volunteer organization behind Bushwick Open Studios, from 2012 to 2015.
 
 Described by arts blog Hyperallergic as "[one of the biggest annual art events in New York](http://hyperallergic.com/204640/how-arts-in-bushwick-has-stayed-on-mission-in-a-rapidly-changing-neighborhood/)", Bushwick Open Studios encompasses more than 500 events at more than 200 sites throughout the Bushwick neighborhood. The BOS app incorporates an interactive neighborhood map to help the thousands of festivalgoers navigate the event. The app also includes robust search functionality, and features that allow users to build their own schedule of events and spaces they wish to visit. 
 
