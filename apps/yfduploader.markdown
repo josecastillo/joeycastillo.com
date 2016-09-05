@@ -14,7 +14,7 @@ Your Flowing Data Uploader functioned as a simple front-end for Your Flowing Dat
 
 Your Flowing Data Uploader was discontinued in 2012.
 
-##History
+## History
 
 <figure class="third">
 	<a href="/images/apps-yfduploader-screenshot-1.jpg"><img src="/images/apps-yfduploader-screenshot-1.jpg"></a>
@@ -23,4 +23,4 @@ Your Flowing Data Uploader was discontinued in 2012.
 	<figcaption>Screenshots from the Your Flowing Data Uploader app.</figcaption>
 </figure>
 
-Your Flowing Data Uploader was launched in the summer of 2009 for iOS 2.0, and received regular updates to support new iOS features like Core Data in iOS 3.0, and Fast App Switching and the Retina Display in iOS 4.0. It also received regular updates to support Twitter API changes as they came down the pike. 
+Your Flowing Data Uploader was launched in the summer of 2009 for iOS 2.0, and received regular updates to support new iOS features like Core Data in iOS 3.0, and Fast App Switching and the Retina Display in iOS 4.0. It also received regular updates to support Twitter API changes as they came down the pike.
