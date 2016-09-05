@@ -1,68 +1,66 @@
-title:            Joey Castillo
-# description:      
-# disqus_shortname:
-#search:           true
-# Change url to your domain. Leave localhost server or blank when working locally.
-# You don't need to specify the protocol if you want it available on http and https. Example: //localhost:4000
-url:              //www.joeycastillo.com
-#url:              //localhost:4000
+# Site wide configuration
 
-# Owner/author information
-owner:
-  name:           Joey Castillo
-  avatar:         bio-photo.jpg
-  email:
-  # Social networking links used in footer. Update and remove as you like.
-  twitter:        josecastillo
-  facebook:
-  github:         josecastillo
-  stackexchange:
-  linkedin:       joeycastillo
-  instagram:      josecastillo
-  flickr:
-  tumblr:
-  # For Google Authorship https://plus.google.com/authorship
-  google_plus:
+title: Joey Castillo
+locale: en_US
+# description: Describe your website here.
+# logo: site-logo.png
+search: false
+# url: //www.joeycastillo.com
+url: //localhost:4000
 
-# Analytics and webmaster tools stuff goes here
-google_analytics: UA-7051892-2
-google_verify:
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
+# Jekyll configuration
 
-# Links to include in top navigation
-# For external links add external: true
-links:
-  - title: Home
-    url: /
-  - title: About
-    url: /about/
-  - title: Apps
-    url: /apps/
+permalink:   /:categories/:year/:month/:day/:title/
+markdown:    kramdown
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+
+kramdown:
+  input: GFM
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..2
+  enable_coderay: false
+
+mathjax: true
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", ".less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
 future:      true
-highlighter: true
-highlighter: pygments
-markdown:    kramdown
 
-# https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:year/:month/:day/:title/
+# REMOVE ME?
+#google_analytics: UA-7051892-2
 
-kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  use_coderay: false
-
-  coderay:
-    coderay_line_numbers:
-    coderay_line_numbers_start: 1
-    coderay_tab_width: 4
-    coderay_bold_every: 10
-    coderay_css: class
-
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Gemfile", "Capfile", "README.md", "LICENSE", "Gemfile.lock", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
+# Site owner
+owner:
+  name: Joey Castillo
+  avatar: bio-photo.jpg
+  email: you@email.com
+  disqus-shortname:
+  twitter: josecastillo
+  facebook: #username
+  github: josecastillo
+  stackexchange: #http://stackoverflow.com/users/123456/username
+  linkedin: joeycastillo
+  instagram: josecastillo
+  flickr: #username
+  tumblr: #username
+  pinterest: #username
+  weibo: #userid
+  google:
+    plus: #username
+    analytics: UA-7051892-2
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:

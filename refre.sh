@@ -1,4 +1,4 @@
 while true
 do
-  jekyll build && jekyll serve --watch
+  bundle exec jekyll serve --watch
 done
