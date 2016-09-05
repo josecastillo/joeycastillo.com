@@ -11,44 +11,44 @@ The photographs below were exhibited at [Seeking Space 2012](http://artsinbushwi
 
 Achieving positive, healthy relationships of acceptance requires time and work on the part of both children and parents. By humanizing “coming out” experiences, *The Outcomes Project* aimed to give parents deeper insight into what their child may be feeling, in a moment when many families experience confusion, feelings of isolation and fear. 
 
-**This gallery is meant to be viewed on a desktop or tablet, in conjunction with a smartphone or personal media device. Scan each QR code to view the participant's story.**
+<!-- **This gallery is meant to be viewed on a desktop or tablet, in conjunction with a smartphone or personal media device. Scan each QR code to view the participant's story.** -->
 
 <img src="/images/multimedia-outcomes-01.png" style="float:left;margin-right:10px">
-<img src="/images/multimedia-outcomes-01q.png" style="float:left">
+<!-- <img src="/images/multimedia-outcomes-01q.png" style="float:left"> -->
 
 <p style="clear:both;">Terry, age 37, from Karo MI</p>
 
 <img src="/images/multimedia-outcomes-02.png" style="float:left;margin-right:10px">
-<img src="/images/multimedia-outcomes-02q.png" style="float:left">
+<!-- <img src="/images/multimedia-outcomes-02q.png" style="float:left"> -->
 
 <p style="clear:both;">Quinn, age 19, from Houston, TX</p>
 
 <img src="/images/multimedia-outcomes-03.png" style="float:left;margin-right:10px">
-<img src="/images/multimedia-outcomes-03q.png" style="float:left">
+<!-- <img src="/images/multimedia-outcomes-03q.png" style="float:left"> -->
 
 <p style="clear:both;">Morgan, age 24, from Missoula MT</p>
 
 <img src="/images/multimedia-outcomes-04.png" style="float:left;margin-right:10px">
-<img src="/images/multimedia-outcomes-04q.png" style="float:left">
+<!-- <img src="/images/multimedia-outcomes-04q.png" style="float:left"> -->
 
 <p style="clear:both;">Andy, age 23, from Mamaroneck NY</p>
 
 <img src="/images/multimedia-outcomes-05.png" style="float:left;margin-right:10px">
-<img src="/images/multimedia-outcomes-05q.png" style="float:left">
+<!-- <img src="/images/multimedia-outcomes-05q.png" style="float:left"> -->
 
 <p style="clear:both;">Jason, age 21, from Kerrville TX</p>
 
 <img src="/images/multimedia-outcomes-06.png" style="float:left;margin-right:10px">
-<img src="/images/multimedia-outcomes-06q.png" style="float:left">
+<!-- <img src="/images/multimedia-outcomes-06q.png" style="float:left"> -->
 
 <p style="clear:both;">Jon, age 21, from Phoenix AZ</p>
 
 <img src="/images/multimedia-outcomes-07.png" style="float:left;margin-right:10px">
-<img src="/images/multimedia-outcomes-07q.png" style="float:left">
+<!-- <img src="/images/multimedia-outcomes-07q.png" style="float:left"> -->
 
 <p style="clear:both;">Maggie, age 18, from San Antonio TX</p>
 
 <img src="/images/multimedia-outcomes-08.png" style="float:left;margin-right:10px">
-<img src="/images/multimedia-outcomes-08q.png" style="float:left">
+<!-- <img src="/images/multimedia-outcomes-08q.png" style="float:left"> -->
 
 <p style="clear:both;">Fernando, age 24, from Houston TX</p>
