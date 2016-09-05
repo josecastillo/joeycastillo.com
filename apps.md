@@ -6,8 +6,8 @@ title: Apps, Past & Present
 
 #Current Apps
 
+* [Dictapad](/apps/dictapad), released August 2011; updated August 2016.
 * [Better Day](/apps/betterday), released December 2015; updated August 2016.
-* [Dictapad](/apps/dictapad), released 2011; updated October 2015.
 * [SIGILANCE](/apps/sigilance); cryptographic smart card and supporting software.
 
 #Back Catalogue
